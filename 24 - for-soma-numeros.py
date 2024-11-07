@@ -1,7 +1,5 @@
 # um algoritmo que calcula a soma dos números pares entre 1 e 50
 
-# Gustavo Henrique - 2° ano F
-
 soma = 0 
 
 # utilizando o laço for:
